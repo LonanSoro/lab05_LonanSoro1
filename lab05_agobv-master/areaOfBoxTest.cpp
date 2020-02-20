@@ -3,7 +3,6 @@
 #include "shapeFuncs.h"
 #include "utility.h"
 
-// Next we have our main program that runs the tests
 int main()
 {
 
